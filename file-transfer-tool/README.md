@@ -1,6 +1,8 @@
 # File Transfer Tool
 This is a simple file transfer tool by using TCP STREAM sockets, which enables the client to send any file to server.
+- client interface
 ![client-interface](client-interface.png)
+- server interface
 ![server-interface](server-interface.png)
 
 
